@@ -95,7 +95,7 @@ Then you can run the mock_CentralGalaxy.py or generate a new mock values with ge
 
 The script Mock_CentralGalaxy.py requires some inputs : 
 
-- 1. If it is the first time that you run the code, enter 'yes'. This option select the information of the particles for each structure. All the data of the particles are in /d5004_mock but without classifying this by component. 
+- 1. If it is the first time that you run the code, enter 'yes'. This option selects the information of the particles for each structure. All the data of the particles are in /d5004_mock but without classifying this by component. 
 - 2. Then enter "yes" to generate the plots. 
 - 3. The CM is already calculated becouse requires some time, but you can enter "yes".
 - 4. Enter 1,2,3 or 4
