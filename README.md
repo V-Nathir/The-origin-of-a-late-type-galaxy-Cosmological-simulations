@@ -3,11 +3,11 @@
 
 <a id="indice"></a>
 
--[About the project](#1)
+- [About the project](#1)
 
--[How works the code](#2)
+- [How works the code](#2)
 
--[How use the code](#3)
+- [How use the code](#3)
 
 ![T](/Gifs/CM_calculation.gif)
 ![T](/Gifs/temperatura.gif)
