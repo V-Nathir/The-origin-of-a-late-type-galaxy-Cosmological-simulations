@@ -21,9 +21,9 @@
 
 The data of a AP3M-SPH cosmological simulation has been analyzed to find the origin of the components of a late-type galaxy using Python.
 
-This is my Master's Thesis in the Astrophysic field for the Universidad Complutense de Madrid. 
+This is my Master's Thesis in Astrophysic for the Universidad Complutense de Madrid. 
 
-In this research I have researched a possible relationship between the cosmic web and the components of a spiral galaxy, the spheroide formed by the halo and the bulge, and, the disck formed by the thin and thick disk.
+In this research I have researched a possible relationship between the cosmic web and the components of a spiral galaxy, the spheroid formed by the halo and the bulge, and, the disk formed by the thin and thick disk.
 
 The result of this project implies that the orientation between the cosmic web and the components affects to their evolution. It has been possible characterize this evolution with the History of Stars Formation, the morphology, the magnitude of the angular momentum, the history of mass accreted... 
 
