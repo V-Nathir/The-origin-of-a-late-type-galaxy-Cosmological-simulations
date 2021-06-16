@@ -51,7 +51,7 @@ A cause of the data is intellectual property and can not be upload I create a mo
 
 The free trial can be found in the folder [Mock_trial_version](https://github.com/V-Nathir/The-origin-of-a-late-type-galaxy.-Cosmological-simulations./tree/main/Mock_Trial_Version).
 
-The code is modular, it is mean that exists a main script that use others with specific functions. The main script is named as CentralGalaxy.py or Mock_CentralGalaxy.py in the free trial version. The tree-root of the scripst that uses is: 
+The code is modular, This is mean that exists a main script that use others with specific functions. The main script is named as CentralGalaxy.py or Mock_CentralGalaxy.py in the free trial version. The tree-root of the scripst that uses is: 
 
 - CentralGalaxy.py use : 
   - Def_CentralGalaxy: contains the algorithm for the mass center calculation (when the name of a scrip is "def_name" this mean that "name"-scrip uses a lot this code.) 
@@ -67,7 +67,7 @@ The code is modular, it is mean that exists a main script that use others with s
   - Def_ReadAndSave.py : selects and converts data from big endian to numpy arrays.
   - Packages.py 
  
-Also exist two peripheral scripts to check some operations: 
+There are also exist two peripheral scripts to check some operations: 
 
   - CheckOut.py
   - CheckEigenvector.py
@@ -95,7 +95,7 @@ Then you can run the mock_CentralGalaxy.py or generate a new mock values with ge
 
 The script Mock_CentralGalaxy.py requires some inputs : 
 
-- 1. In the case that is the first time that you run the code, enter 'yes'. This option select the information of the particles for each structure. All the data of the particles are in /d5004_mock but without classifying this by component. 
+- 1. If it is the first time that you run the code, enter 'yes'. This option select the information of the particles for each structure. All the data of the particles are in /d5004_mock but without classifying this by component. 
 - 2. Then enter "yes" to generate the plots. 
 - 3. The CM is already calculated becouse requires some time, but you can enter "yes".
 - 4. Enter 1,2,3 or 4
