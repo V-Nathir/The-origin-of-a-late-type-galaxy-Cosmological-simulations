@@ -9,6 +9,11 @@ Tools for analyzing cosmological simulations
 
 -[How use the code](#3)
 
+![T](/Gifs/1.gif)
+![T](/Gifs/2.gif)
+
+
+
 
 ## [About the project](#indice)
 <a id="1"></a>
