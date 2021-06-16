@@ -25,9 +25,9 @@ This is my Master's Thesis in Astrophysic for the Universidad Complutense de Mad
 
 In this research I have researched a possible relationship between the cosmic web and the components of a spiral galaxy, the spheroid formed by the halo and the bulge, and, the disk formed by the thin and thick disk.
 
-The result of this project implies that the orientation between the cosmic web and the components affects to their evolution. It has been possible characterize this evolution with the History of Stars Formation, the morphology, the magnitude of the angular momentum, the history of mass accreted... 
+The result of this project implies that the orientation between the cosmic web and the components affects to their evolution. It has been possible to characterize this evolution with the History of Stars Formation, the morphology, the magnitude of the angular momentum, the history of mass accreted... 
 
-For all of thes it has been necessary to create a code from scratch.
+For all of this it has been necessary to create a code from scratch.
 
 The Python project is divided in these tasks  : 
 
