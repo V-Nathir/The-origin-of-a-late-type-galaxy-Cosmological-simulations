@@ -1,5 +1,5 @@
 # The-origin-of-a-late-type-galaxy.-Cosmological-simulations.
-Tools for analyzing cosmological simulations
+**Tools for analyzing cosmological simulations**
 
 <a id="indice"></a>
 
@@ -9,9 +9,10 @@ Tools for analyzing cosmological simulations
 
 -[How use the code](#3)
 
-![T](/Gifs/1.gif)
-![T](/Gifs/2.gif)
+![T](/Gifs/CM_calculation.gif)
+![T](/Gifs/temperatura.gif)
 
+![T](/Gifs/Components.gif)
 
 
 
