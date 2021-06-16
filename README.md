@@ -21,8 +21,7 @@ The code is modular, it is mean that exists a main script that use others with s
   
 - ReadAndSave.py use: 
 - 
-  - Def_ReadAndSave.py : selects and converts data from big endian to numpy arrays. 
-  - 
+  - Def_ReadAndSave.py : selects and converts data from big endian to numpy arrays.
   - Packages.py 
  
 Also exist two peripheral scripts to check some operations: 
