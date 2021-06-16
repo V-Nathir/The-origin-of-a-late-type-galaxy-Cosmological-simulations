@@ -15,9 +15,8 @@
 ![T](/Gifs/Components.gif)
 
 
-
-## [About the project](#indice)
 <a id="1"></a>
+## [About the project](#indice)
 
 The data of a AP3M-SPH cosmological simulation has been analyzed to find the origin of the components of a late-type galaxy using Python.
 
@@ -44,8 +43,8 @@ The Python project is divided in these tasks  :
 
 - Create two robust algorithms to calculate a stable mass center for the cosmic web, the galaxy and its components from z=0 to  z= 10 (redshift). 
 
-## [How the code works](#2)
 <a id="2"></a>
+## [How the code works](#2)
 
 A consequence of the fact that the data is an intellectual property and therefore it cannot be upload, I create a mock data to run the code. However, some functions of the program must be removed as there are some informations that cannot be recreated. 
 
@@ -83,9 +82,9 @@ However in the free trial version the /Data is not available so I provided the m
     - /MRV : it contains the mass, position and velocity values.  (This is the only sub-branch in the free trial version.)
     - /HEADER : it contains the header information for each simulation snap.
     - /BAR : barionic information. 
-
-## [How to use the code](#indice)
+    
 <a id="3"></a>
+## [How to use the code](#indice)
 
 You need to clone the folder [Mock_trial_version](https://github.com/V-Nathir/The-origin-of-a-late-type-galaxy.-Cosmological-simulations./tree/main/Mock_Trial_Version)  and download the mock data https://drive.google.com/drive/folders/18cbDmcUqcDPyPLp7qfNrgPJ6FpN2Twf_?usp=sharing
 
