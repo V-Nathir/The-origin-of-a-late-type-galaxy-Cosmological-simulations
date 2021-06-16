@@ -20,7 +20,6 @@ The code is modular, it is mean that exists a main script that use others with s
   - vector.py : performs some plots. 
   
 - ReadAndSave.py use: 
-- 
   - Def_ReadAndSave.py : selects and converts data from big endian to numpy arrays.
   - Packages.py 
  
