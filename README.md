@@ -1,7 +1,43 @@
 # The-origin-of-a-late-type-galaxy.-Cosmological-simulations.
 ### Tools for analyzing cosmological simulations
 
-## How works the code
+<a id="indice"></a>
+
+-[About the project](#1)
+-[How works the code](#2)
+-[How use the code](#3)
+
+
+## [About the project](#indice)
+<a id="1"></a>
+
+The data of a AP3M-SPH cosmological simulation has been analyzed to find the origin of the components of a late-type galaxy using Python.
+
+This is my Master's Thesis in the Astrophysic field for the Universidad Complutense de Madrid. 
+
+In this research I have researched a possible relationship between the cosmic web and the components of a spiral galaxy, the spheroide formed by the halo and the bulge, and, the disck formed by the thin and thick disk.
+
+The result of this project implies that the orientation between the cosmic web and the components affects to their evolution. It has been possible characterize this evolution with the History of Stars Formation, the morphology, the magnitude of the angular momentum, the history of mass accreted... 
+
+For all of thes it has been necessary to create a code from scratch.
+
+The Python project is divided in these tasks  : 
+
+- Create a software to read and save the raw data given in Big Endian from the simulation, converting it into a simpler format. 
+
+- Develope a code that can calculate and plot : 
+
+  - Inertia Tensor and the Ellipsoid of Inertia. 
+  - Angular Momentum.
+  - Orientations between structures.
+  - History of Stars Formation.
+  - History of Mass Accreted.
+  - Plot the sctructures in 3D with different information of interes.
+
+- Create two robust algorithm to calculate an stable mass center for the cosmic web, the galaxy and components from z=0 to  z= 10 (redshift). 
+
+## [How works the code](#2)
+<a id="2"></a>
 
 A cause of the data is intellectual property and can not be upload I create a mock data to run the code but some functions of the program must be removed. There are some informations that can be recreate. 
 
@@ -40,30 +76,9 @@ But in the free trial version the /Data is not available so I provided the mock 
     - /HEADER : contains the header information for each simulation snap.
     - /BAR : barionic information. 
 
-## About the project
+## [How use the code](#indice)
+<a id="3"></a>
 
-The data of a AP3M-SPH cosmological simulation has been analyzed to find the origin of the components of a late-type galaxy using Python.
 
-This is my Master's Thesis in the Astrophysic field for the Universidad Complutense de Madrid. 
 
-In this research I have researched a possible relationship between the cosmic web and the components of a spiral galaxy, the spheroide formed by the halo and the bulge, and, the disck formed by the thin and thick disk.
-
-The result of this project implies that the orientation between the cosmic web and the components affects to their evolution. It has been possible characterize this evolution with the History of Stars Formation, the morphology, the magnitude of the angular momentum, the history of mass accreted... 
-
-For all of thes it has been necessary to create a code from scratch.
-
-The Python project is divided in these tasks  : 
-
-- Create a software to read and save the raw data given in Big Endian from the simulation, converting it into a simpler format. 
-
-- Develope a code that can calculate and plot : 
-
-  - Inertia Tensor and the Ellipsoid of Inertia. 
-  - Angular Momentum.
-  - Orientations between structures.
-  - History of Stars Formation.
-  - History of Mass Accreted.
-  - Plot the sctructures in 3D with different information of interes.
-
-- Create two robust algorithm to calculate an stable mass center for the cosmic web, the galaxy and components from z=0 to  z= 10 (redshift). 
 
