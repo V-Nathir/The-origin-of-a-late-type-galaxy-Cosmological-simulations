@@ -83,8 +83,16 @@ But in the free trial version the /Data is not available so I provided the mock 
 
 You need to clone the folder [Mock_trial_version](https://github.com/V-Nathir/The-origin-of-a-late-type-galaxy.-Cosmological-simulations./tree/main/Mock_Trial_Version)  and download the mock data https://drive.google.com/drive/folders/18cbDmcUqcDPyPLp7qfNrgPJ6FpN2Twf_?usp=sharing
 
+All main folders must be in the same directory as the scripts. Example: CentralGalaxy.py reads ./CW or ./d5004_mock.
 
+Then you can run the mock_CentralGalaxy.py or generate a new mock values with gen_mock.py. Please, use your terminal.
 
+The script Mock_CentralGalaxy.py requires some inputs : 
 
-
-
+- 1. In the case that is the first time that you run the code, enter 'yes'. This option select the information of the particles for each structure. All the data of the particles are in /d5004_mock but without classifying this by component. 
+- 2. Then enter "yes" to generate the plots. 
+- 3. The CM is already calculated becouse requires some time, but you can enter "yes".
+- 4. Enter 1,2,3 or 4
+- 5. Enter 'no' ('yes' with the mock data is not recommended) and the 'no' again (same reason)
+- 6. Enter 1,2,3 or 4
+- 7. 
