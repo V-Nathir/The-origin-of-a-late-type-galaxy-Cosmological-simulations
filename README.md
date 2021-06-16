@@ -5,7 +5,7 @@
 
 - [About the project](#1)
 
-- [How works the code](#2)
+- [How the code works](#2)
 
 - [How use the code](#3)
 
@@ -44,10 +44,10 @@ The Python project is divided in these tasks  :
 
 - Create two robust algorithm to calculate an stable mass center for the cosmic web, the galaxy and components from z=0 to  z= 10 (redshift). 
 
-## [How works the code](#2)
+## [How the code works](#2)
 <a id="2"></a>
 
-A cause of the data is intellectual property and can not be upload I create a mock data to run the code but some functions of the program must be removed. There are some informations that can be recreate. 
+A consequence of the fact that the data is intellectual property and cannot be upload I create a mock data to run the code but some functions of the program must be removed. There are some informations that cannot be recreate. 
 
 The free trial can be found in the folder [Mock_trial_version](https://github.com/V-Nathir/The-origin-of-a-late-type-galaxy.-Cosmological-simulations./tree/main/Mock_Trial_Version).
 
