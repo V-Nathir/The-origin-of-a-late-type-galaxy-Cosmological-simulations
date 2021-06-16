@@ -51,7 +51,7 @@ A consequence of the fact that the data is intellectual property and cannot be u
 
 The free trial can be found in the folder [Mock_trial_version](https://github.com/V-Nathir/The-origin-of-a-late-type-galaxy.-Cosmological-simulations./tree/main/Mock_Trial_Version).
 
-The code is modular, This is mean that exists a main script that use others with specific functions. The main script is named as CentralGalaxy.py or Mock_CentralGalaxy.py in the free trial version. The tree-root of the scripst that uses is: 
+The code is modular, which means that it exists a main script that uses others with specific functions. The main script is named  CentralGalaxy.py or Mock_CentralGalaxy.py in the free trial version. The tree-root of the script is: 
 
 - CentralGalaxy.py use : 
   - Def_CentralGalaxy: contains the algorithm for the mass center calculation (when the name of a scrip is "def_name" this mean that "name"-scrip uses a lot this code.) 
