@@ -81,7 +81,10 @@ But in the free trial version the /Data is not available so I provided the mock 
 ## [How use the code](#indice)
 <a id="3"></a>
 
-You need to clone the folder [Mock_trial_version](https://github.com/V-Nathir/The-origin-of-a-late-type-galaxy.-Cosmological-simulations./tree/main/Mock_Trial_Version) 
+You need to clone the folder [Mock_trial_version](https://github.com/V-Nathir/The-origin-of-a-late-type-galaxy.-Cosmological-simulations./tree/main/Mock_Trial_Version)  and download the mock data https://drive.google.com/drive/folders/18cbDmcUqcDPyPLp7qfNrgPJ6FpN2Twf_?usp=sharing
+
+
+
 
 
 
