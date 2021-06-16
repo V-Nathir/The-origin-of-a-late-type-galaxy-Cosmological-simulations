@@ -1,10 +1,12 @@
 # The-origin-of-a-late-type-galaxy.-Cosmological-simulations.
-### Tools for analyzing cosmological simulations
+Tools for analyzing cosmological simulations
 
 <a id="indice"></a>
 
 -[About the project](#1)
+
 -[How works the code](#2)
+
 -[How use the code](#3)
 
 
@@ -79,6 +81,7 @@ But in the free trial version the /Data is not available so I provided the mock 
 ## [How use the code](#indice)
 <a id="3"></a>
 
+You need to clone the folder [Mock_trial_version](https://github.com/V-Nathir/The-origin-of-a-late-type-galaxy.-Cosmological-simulations./tree/main/Mock_Trial_Version) 
 
 
 
