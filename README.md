@@ -95,4 +95,4 @@ The script Mock_CentralGalaxy.py requires some inputs :
 - 4. Enter 1,2,3 or 4
 - 5. Enter 'no' ('yes' with the mock data is not recommended) and the 'no' again (same reason)
 - 6. Enter 1,2,3 or 4
-- 7. 
+- 7. Enter yes or no. 
