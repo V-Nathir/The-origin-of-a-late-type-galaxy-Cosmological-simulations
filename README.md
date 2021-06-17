@@ -46,11 +46,11 @@ The Python project is divided in these tasks  :
 <a id="2"></a>
 ## [How the code works](#2)
 
-A consequence of the fact that the data is an intellectual property and therefore it cannot be upload, I create a mock data to run the code. However, some functions of the program must be removed as there are some informations that cannot be recreated. 
+The data is subject to IP laws and it cannot be uploaded, so I create a mock data to run the code. However, some functions of the program must be removed as there are some informations that cannot be recreated. 
 
 The free trial can be found in the folder [Mock_trial_version](https://github.com/V-Nathir/The-origin-of-a-late-type-galaxy.-Cosmological-simulations./tree/main/Mock_Trial_Version).
 
-The code is modular, which means that it exists a main script that uses others with specific functions. The main script is named  CentralGalaxy.py or Mock_CentralGalaxy.py in the free trial version. The path tree of the script is: 
+The code is modular, which means that there is a main script that uses others with specific functions. The main script is named  CentralGalaxy.py or Mock_CentralGalaxy.py in the free trial version. The path tree of the script is: 
 
 - CentralGalaxy.py uses : 
   - Def_CentralGalaxy: it contains the algorithm for the mass center calculation (when the name of a script is "def_name" this mean that "name"-scrip uses a lot this code.) 
@@ -66,7 +66,7 @@ The code is modular, which means that it exists a main script that uses others w
   - Def_ReadAndSave.py : it selects and converts data from big endian to numpy arrays.
   - Packages.py 
  
-There are also exist two peripheral scripts to check some operations: 
+There are also two peripheral scripts to check some operations: 
 
   - CheckOut.py
   - CheckEigenvector.py
