@@ -62,7 +62,7 @@ The code is modular, which means that it exists a main script that uses others w
   - units.py : units. 
   - vector.py :it performs some plots. 
   
-- ReadAndSave.py use: 
+- ReadAndSave.py uses: 
   - Def_ReadAndSave.py : it selects and converts data from big endian to numpy arrays.
   - Packages.py 
  
