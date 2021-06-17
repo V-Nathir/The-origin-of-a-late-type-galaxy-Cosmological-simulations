@@ -63,7 +63,7 @@ The code is modular, which means that there is a main script that uses others wi
   - vector.py :it performs some plots. 
   
 - ReadAndSave.py uses: 
-  - Def_ReadAndSave.py : it selects and converts data from big endian to numpy arrays.
+  - Def_ReadAndSave.py : it selects and converts data from big endian to numpy arrays (the row data).
   - Packages.py 
  
 There are also two peripheral scripts to check some operations: 
