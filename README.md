@@ -44,7 +44,7 @@ The Python project is divided in these tasks  :
 - Create two robust algorithms to calculate a stable mass center for the cosmic web, the galaxy and its components from z=0 to  z= 10 (redshift). 
 
 <a id="2"></a>
-## [How the code works](#2)
+## [How the code works](#indice)
 
 The data is subject to IP laws and it cannot be uploaded, so I create a mock data to run the code. However, some functions of the program must be removed as there are some informations that cannot be recreated. 
 
