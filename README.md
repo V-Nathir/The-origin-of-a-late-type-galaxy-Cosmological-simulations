@@ -18,7 +18,7 @@
 <a id="1"></a>
 ## [About the project](#indice)
 
-The data of a AP3M-SPH cosmological simulation has been analyzed to find the origin of the components of a late-type galaxy using Python.
+The data of a AP3M-SPH cosmological simulation, PDEVA, has been analyzed to find the origin of the components of a late-type galaxy using Python.
 
 This is my Master's Thesis in Astrophysic for the Universidad Complutense de Madrid. 
 
